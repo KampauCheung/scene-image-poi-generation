@@ -1,6 +1,6 @@
 # scene-image-poi-generation
 
-This repository implements a deep learning-based three-stage framework to automatically generate POI data sets from scene images. This work has been accepted as the paper 'Deep-learning generation of POI data with scene images' in ISPRS Journal of Photogrammetry and Remote Sensing. 
+This repository implements a deep learning-based three-stage framework to automatically generate POI data sets from scene images. This work has been accepted as the paper '[Deep-learning generation of POI data with scene images](https://www.sciencedirect.com/science/article/pii/S0924271622000995)' in ISPRS Journal of Photogrammetry and Remote Sensing. 
 
 We thank [MMDetection](https://github.com/open-mmlab/mmdetection) and [Swin-Transformer-Object-Detection](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) for their implements for object detection and instance segmentation. Meanwhile, we also thank [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) for their implements for scene text recognition. 
 
